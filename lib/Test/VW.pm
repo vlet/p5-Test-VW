@@ -46,7 +46,7 @@ Test::VW - always green cpantesters
 Test::VW detects when your test are being run on cpantesters (checks for
 AUTOMATED_TESTING environment variable) and makes them always pass.
 
-=SEE ALSO
+=head1 SEE ALSO
 
 PHP - https://github.com/hmlb/phpunit-vw
 
