@@ -4,7 +4,7 @@ use strict;
 use warnings;
 require Test::More;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 my @list = qw(
   ok is isnt cmp_ok is_deeply can_ok isa_ok use_ok require_ok

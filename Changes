@@ -2,6 +2,9 @@ Revision history for Perl extension Test-VW
 
 {{$NEXT}}
 
+0.02 2015-10-08T09:32:56Z
+    - fix pod errors
+
 0.01 2015-10-08T09:31:19Z
 
     - original version
