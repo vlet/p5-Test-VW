@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "always green cpantesters",
    "author" : [
       "Vladimir Lettiev <thecrux@gmail.com>"
    ],
@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/vlet/p5-Test-VW/issues"
+      },
+      "homepage" : "https://github.com/vlet/p5-Test-VW",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/vlet/p5-Test-VW.git",
+         "web" : "https://github.com/vlet/p5-Test-VW"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:CRUX"
 }
