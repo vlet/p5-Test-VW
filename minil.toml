@@ -1,0 +1,6 @@
+name = "Test-VW"
+# badges = ["travis"]
+authority="cpan:CRUX"
+
+module_maker="ModuleBuildTiny"
+
